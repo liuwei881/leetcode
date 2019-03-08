@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17c1d608-6044-4421-b2df-ffade0715757" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assign_Cookies.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/决策树week1周四周五/源码/01-What-is-Decision-Tree.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/决策树week1周四周五/源码/01-What-is-Decision-Tree.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/决策树week1周四周五/源码/02-Entropy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/决策树week1周四周五/源码/02-Entropy.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/决策树week1周四周五/源码/03-Entropy-Split-Simulation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/决策树week1周四周五/源码/03-Entropy-Split-Simulation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/决策树week1周四周五/源码/04-Gini-Index.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/决策树week1周四周五/源码/04-Gini-Index.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/决策树week1周四周五/源码/05-CART-and-Decision-Tree-Hyperparameters.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/决策树week1周四周五/源码/05-CART-and-Decision-Tree-Hyperparameters.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,27 +25,29 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="ipynb" value="6" />
           <entry key="md" value="1" />
-          <entry key="py" value="3" />
+          <entry key="py" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="IPNB" value="6" />
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="3" />
+          <entry key="Python" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="184" />
           <entry key="md" value="16" />
-          <entry key="py" value="3380" />
+          <entry key="py" value="3402" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="16" />
-          <entry key="Python" value="3564" />
+          <entry key="Python" value="3586" />
         </counts>
       </usages-collector>
     </session>
@@ -57,11 +63,62 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assign_Cookies.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+            <state relative-caret-position="330">
+              <caret line="42" column="19" lean-forward="true" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/决策树week1周四周五/源码/03-Entropy-Split-Simulation.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/算法实战/达观杯/logistics.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/逻辑回归week1周四周五/源码/iris_lr_demo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="588">
+              <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/逻辑回归week1周四周五/源码/LogisticRegression.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-252">
+              <caret line="51" column="22" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/决策树week1周四周五/源码/04-Gini-Index.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="7" />
             </state>
           </provider>
         </entry>
@@ -84,6 +141,8 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Two_Sum.py" />
         <option value="$PROJECT_DIR$/Assign_Cookies.py" />
+        <option value="$PROJECT_DIR$/决策树week1周四周五/源码/03-Entropy-Split-Simulation.ipynb" />
+        <option value="$PROJECT_DIR$/逻辑回归week1周四周五/源码/iris_lr_demo.py" />
       </list>
     </option>
   </component>
@@ -105,6 +164,11 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="决策树week1周四周五" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -135,7 +199,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Assign_Cookies">
+  <component name="RunManager" selected="Python.iris_lr_demo">
     <configuration name="Assign_Cookies" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,12 +242,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="iris_lr_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/逻辑回归week1周四周五/源码" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/逻辑回归week1周四周五/源码/iris_lr_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.Two_Sum" />
       <item itemvalue="Python.Assign_Cookies" />
+      <item itemvalue="Python.iris_lr_demo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.iris_lr_demo" />
         <item itemvalue="Python.Assign_Cookies" />
         <item itemvalue="Python.Two_Sum" />
       </list>
@@ -207,7 +294,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24986793" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986793" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" weight="0.32962137" />
@@ -266,8 +353,70 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assign_Cookies.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+        <state relative-caret-position="330">
+          <caret line="42" column="19" lean-forward="true" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/决策树week1周四周五/源码/01-What-is-Decision-Tree.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/决策树week1周四周五/源码/02-Entropy.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法实战/达观杯/logistics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/决策树week1周四周五/源码/05-CART-and-Decision-Tree-Hyperparameters.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/决策树week1周四周五/源码/03-Entropy-Split-Simulation.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/逻辑回归week1周四周五/源码/iris_lr_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/逻辑回归week1周四周五/源码/LogisticRegression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-252">
+          <caret line="51" column="22" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/决策树week1周四周五/源码/04-Gini-Index.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="7" />
         </state>
       </provider>
     </entry>
