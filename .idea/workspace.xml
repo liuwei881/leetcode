@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17c1d608-6044-4421-b2df-ffade0715757" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Hash_Table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Valid_Anagram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,47 +25,38 @@
         <counts>
           <entry key="ipynb" value="6" />
           <entry key="md" value="1" />
-          <entry key="py" value="15" />
+          <entry key="py" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="6" />
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="15" />
+          <entry key="Python" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="507" />
           <entry key="md" value="16" />
-          <entry key="py" value="6791" />
+          <entry key="py" value="7203" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="16" />
-          <entry key="Python" value="7298" />
+          <entry key="Python" value="7710" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Two_Sum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
-              <caret line="34" column="36" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="34" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Hash_Table.py">
+        <entry file="file://$PROJECT_DIR$/Valid_Anagram.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="28" column="38" lean-forward="true" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+            <state relative-caret-position="299">
+              <caret line="34" column="24" lean-forward="true" selection-start-line="21" selection-end-line="34" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -93,13 +85,15 @@
         <option value="$PROJECT_DIR$/diff_way_add_paren.py" />
         <option value="$PROJECT_DIR$/Inter_Two_Link.py" />
         <option value="$PROJECT_DIR$/Hash_Table.py" />
+        <option value="$PROJECT_DIR$/Valid_Anagram.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1024" />
-    <option name="height" value="752" />
+    <option name="x" value="443" />
+    <option name="y" value="241" />
+    <option name="width" value="1084" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -143,28 +137,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Hash_Table">
-    <configuration name="Assign_Cookies" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assign_Cookies.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Valid_Anagram">
     <configuration name="Hash_Table" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -228,6 +201,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Valid_Anagram" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Valid_Anagram.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="diff_way_add_paren" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -250,19 +244,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Assign_Cookies" />
       <item itemvalue="Python.Sqrt" />
       <item itemvalue="Python.diff_way_add_paren" />
       <item itemvalue="Python.Inter_Two_Link" />
       <item itemvalue="Python.Hash_Table" />
+      <item itemvalue="Python.Valid_Anagram" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Valid_Anagram" />
         <item itemvalue="Python.Hash_Table" />
         <item itemvalue="Python.Inter_Two_Link" />
         <item itemvalue="Python.diff_way_add_paren" />
         <item itemvalue="Python.Sqrt" />
-        <item itemvalue="Python.Assign_Cookies" />
       </list>
     </recent_temporary>
   </component>
@@ -288,7 +282,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.49777284" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.49777284" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997773" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -444,8 +438,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Hash_Table.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="28" column="38" lean-forward="true" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+        <state relative-caret-position="364">
+          <caret line="32" column="44" lean-forward="true" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Valid_Anagram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="34" column="24" lean-forward="true" selection-start-line="21" selection-end-line="34" selection-end-column="24" />
         </state>
       </provider>
     </entry>
