@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17c1d608-6044-4421-b2df-ffade0715757" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Valid_Anagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implement_Queue_Stacks.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,27 +25,27 @@
         <counts>
           <entry key="ipynb" value="6" />
           <entry key="md" value="1" />
-          <entry key="py" value="16" />
+          <entry key="py" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="6" />
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="16" />
+          <entry key="Python" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="507" />
+          <entry key="Python Console" value="523" />
           <entry key="md" value="16" />
-          <entry key="py" value="7203" />
+          <entry key="py" value="7771" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="16" />
-          <entry key="Python" value="7710" />
+          <entry key="Python" value="8294" />
         </counts>
       </usages-collector>
     </session>
@@ -53,10 +53,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Valid_Anagram.py">
+        <entry file="file://$PROJECT_DIR$/Implement_Queue_Stacks.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="34" column="24" lean-forward="true" selection-start-line="21" selection-end-line="34" selection-end-column="24" />
+            <state relative-caret-position="336">
+              <caret line="42" column="17" lean-forward="true" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -86,12 +86,13 @@
         <option value="$PROJECT_DIR$/Inter_Two_Link.py" />
         <option value="$PROJECT_DIR$/Hash_Table.py" />
         <option value="$PROJECT_DIR$/Valid_Anagram.py" />
+        <option value="$PROJECT_DIR$/Implement_Queue_Stacks.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="443" />
-    <option name="y" value="241" />
+    <option name="x" value="349" />
+    <option name="y" value="222" />
     <option name="width" value="1084" />
     <option name="height" value="728" />
   </component>
@@ -137,7 +138,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Valid_Anagram">
+  <component name="RunManager" selected="Python.Implement_Queue_Stacks">
     <configuration name="Hash_Table" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -159,6 +160,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Implement_Queue_Stacks" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Implement_Queue_Stacks.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Inter_Two_Link" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,27 +194,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Inter_Two_Link.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Sqrt" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sqrt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,19 +245,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Sqrt" />
       <item itemvalue="Python.diff_way_add_paren" />
       <item itemvalue="Python.Inter_Two_Link" />
       <item itemvalue="Python.Hash_Table" />
       <item itemvalue="Python.Valid_Anagram" />
+      <item itemvalue="Python.Implement_Queue_Stacks" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Implement_Queue_Stacks" />
         <item itemvalue="Python.Valid_Anagram" />
         <item itemvalue="Python.Hash_Table" />
         <item itemvalue="Python.Inter_Two_Link" />
         <item itemvalue="Python.diff_way_add_paren" />
-        <item itemvalue="Python.Sqrt" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +283,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.49777284" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.49777284" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997773" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -290,7 +291,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32962137" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.4957265" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.49554566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -398,13 +399,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-313451744/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1120">
-          <caret line="4167" column="8" selection-start-line="4167" selection-start-column="8" selection-end-line="4167" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Inter_Two_Link.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -445,8 +439,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Valid_Anagram.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="34" column="24" lean-forward="true" selection-start-line="21" selection-end-line="34" selection-end-column="24" />
+        <state relative-caret-position="234">
+          <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-313451744/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="3601" column="8" selection-start-line="3601" selection-start-column="8" selection-end-line="3601" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Implement_Queue_Stacks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="42" column="17" lean-forward="true" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
         </state>
       </provider>
     </entry>
