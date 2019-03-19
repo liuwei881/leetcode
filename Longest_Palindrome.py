@@ -39,5 +39,5 @@ class Solution:
 
 if __name__ == '__main__':
     a = Solution()
-    s = "adamb"
+    s = "level"
     print(a.longestPalindrome(s))
