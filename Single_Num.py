@@ -28,6 +28,14 @@ class Solution:
         return m
 
 
+#class Solution:
+#    def singleNumber(self, nums):
+#        xor = nums[0]
+#        for i in range(len(nums)):
+#            xor ^= nums[i]
+#        return xor
+
+
 if __name__ == '__main__':
     a = Solution()
     nums = [1,2,1,3,2,5]
