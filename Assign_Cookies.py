@@ -54,4 +54,3 @@ if __name__ == '__main__':
     g = [10, 9, 8, 7]
     s = [5, 6, 7, 8]
     print(a.findContentChildren(g, s))
-
