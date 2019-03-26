@@ -21,6 +21,7 @@ class Solution:
         for i in nums:
             if i not in maps:
                 maps[i] = 1
+                maps[i] = 1
             else:
                 maps[i] += 1
         n = int(len(nums) / 2)
