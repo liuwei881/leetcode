@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17c1d608-6044-4421-b2df-ffade0715757" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Is_Graph_Bipartite.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course_Schedule.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,38 +25,47 @@
         <counts>
           <entry key="ipynb" value="7" />
           <entry key="md" value="1" />
-          <entry key="py" value="23" />
+          <entry key="py" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="7" />
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="23" />
+          <entry key="Python" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="523" />
+          <entry key="Python Console" value="607" />
           <entry key="md" value="16" />
-          <entry key="py" value="8734" />
+          <entry key="py" value="9732" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="16" />
-          <entry key="Python" value="9257" />
+          <entry key="Python" value="10339" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Is_Graph_Bipartite.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
-              <caret line="60" column="44" selection-start-line="60" selection-start-column="44" selection-end-line="60" selection-end-column="44" />
+            <state relative-caret-position="448">
+              <caret line="53" column="29" lean-forward="true" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Course_Schedule.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="580">
+              <caret line="83" column="19" lean-forward="true" selection-start-line="60" selection-end-line="83" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -93,14 +101,15 @@
         <option value="$PROJECT_DIR$/Kth_Smallest_Element_BST.py" />
         <option value="$PROJECT_DIR$/Im_Trie_Prefix_Tree.py" />
         <option value="$PROJECT_DIR$/Is_Graph_Bipartite.py" />
+        <option value="$PROJECT_DIR$/Course_Schedule.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="484" />
-    <option name="y" value="104" />
-    <option name="width" value="2373" />
-    <option name="height" value="1184" />
+    <option name="x" value="310" />
+    <option name="y" value="499" />
+    <option name="width" value="1022" />
+    <option name="height" value="766" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -147,8 +156,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Is_Graph_Bipartite">
-    <configuration name="Hash_Table" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Course_Schedule">
+    <configuration name="Course_Schedule" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,7 +169,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hash_Table.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Course_Schedule.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -254,19 +263,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Hash_Table" />
       <item itemvalue="Python.Valid_Anagram" />
       <item itemvalue="Python.Implement_Queue_Stacks" />
       <item itemvalue="Python.Im_Trie_Prefix_Tree" />
       <item itemvalue="Python.Is_Graph_Bipartite" />
+      <item itemvalue="Python.Course_Schedule" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Course_Schedule" />
         <item itemvalue="Python.Is_Graph_Bipartite" />
         <item itemvalue="Python.Im_Trie_Prefix_Tree" />
         <item itemvalue="Python.Implement_Queue_Stacks" />
         <item itemvalue="Python.Valid_Anagram" />
-        <item itemvalue="Python.Hash_Table" />
       </list>
     </recent_temporary>
   </component>
@@ -292,7 +301,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.49777284" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3518931" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997773" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -408,13 +417,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-313451744/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="3601" column="8" selection-start-line="3601" selection-start-column="8" selection-end-line="3601" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PCA/code/01-Implement-PCA-in-BGA/01-Implement-PCA-in-BGA.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -463,8 +465,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Is_Graph_Bipartite.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="60" column="44" selection-start-line="60" selection-start-column="44" selection-end-line="60" selection-end-column="44" />
+        <state relative-caret-position="448">
+          <caret line="53" column="29" lean-forward="true" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-313451744/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="2841" column="8" selection-start-line="2841" selection-start-column="8" selection-end-line="2841" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course_Schedule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="83" column="19" lean-forward="true" selection-start-line="60" selection-end-line="83" selection-end-column="19" />
         </state>
       </provider>
     </entry>
